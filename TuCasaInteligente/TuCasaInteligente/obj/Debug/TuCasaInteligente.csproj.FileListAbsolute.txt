@@ -1,0 +1,12 @@
+C:\Users\lu1s_\Desktop\Tecnicas de programacion\TuCasaInteligente\TuCasaInteligente\bin\Debug\TuCasaInteligente.exe.config
+C:\Users\lu1s_\Desktop\Tecnicas de programacion\TuCasaInteligente\TuCasaInteligente\bin\Debug\TuCasaInteligente.exe
+C:\Users\lu1s_\Desktop\Tecnicas de programacion\TuCasaInteligente\TuCasaInteligente\bin\Debug\TuCasaInteligente.pdb
+C:\Users\lu1s_\Desktop\Tecnicas de programacion\TuCasaInteligente\TuCasaInteligente\obj\Debug\TuCasaInteligente.csprojAssemblyReference.cache
+C:\Users\lu1s_\Desktop\Tecnicas de programacion\TuCasaInteligente\TuCasaInteligente\obj\Debug\TuCasaInteligente.Form1.resources
+C:\Users\lu1s_\Desktop\Tecnicas de programacion\TuCasaInteligente\TuCasaInteligente\obj\Debug\TuCasaInteligente.Properties.Resources.resources
+C:\Users\lu1s_\Desktop\Tecnicas de programacion\TuCasaInteligente\TuCasaInteligente\obj\Debug\TuCasaInteligente.csproj.GenerateResource.cache
+C:\Users\lu1s_\Desktop\Tecnicas de programacion\TuCasaInteligente\TuCasaInteligente\obj\Debug\TuCasaInteligente.csproj.CoreCompileInputs.cache
+C:\Users\lu1s_\Desktop\Tecnicas de programacion\TuCasaInteligente\TuCasaInteligente\obj\Debug\TuCasaInteligente.exe
+C:\Users\lu1s_\Desktop\Tecnicas de programacion\TuCasaInteligente\TuCasaInteligente\obj\Debug\TuCasaInteligente.pdb
+C:\Users\lu1s_\Desktop\Tecnicas de programacion\TuCasaInteligente\TuCasaInteligente\obj\Debug\TuCasaInteligente.Controlador.resources
+C:\Users\lu1s_\Desktop\Tecnicas de programacion\TuCasaInteligente\TuCasaInteligente\obj\Debug\TuCasaInteligente.Registro.resources
